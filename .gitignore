@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Generated files
+dashboard.html
+dashboard.log
+dashboard.err
+finance.db
+
+# macOS
+.DS_Store
+
+# My personal data
+movie_pool.txt

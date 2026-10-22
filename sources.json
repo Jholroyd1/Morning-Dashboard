@@ -1,0 +1,7 @@
+{
+  "dashboard": {
+    "title": "My Morning Dashboard",
+    "max_items_per_section": 10,
+    "time_window_hours": 72
+  }
+}
